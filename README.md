@@ -1,0 +1,1 @@
+This quiz interface is designed using HTML, CSS, and Bootstrap, featuring a user-friendly login form requiring name and roll/enrollment number. The quiz section displays multiple-choice questions in a clean and structured layout. Bootstrap styling enhances responsiveness, ensuring a seamless experience across devices.
